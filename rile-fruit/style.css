@@ -368,7 +368,8 @@ img {
           @media only screen and (max-width: 767px) {
             .header-area .top-header-area .top-header-content .top-header-meta .language-dropdown .dropdown-menu {
               min-width: 100px;
-              top: 70px !important; } }
+              /* top: 70px !important;  */
+            } }
           .header-area .top-header-area .top-header-content .top-header-meta .language-dropdown .dropdown-menu .dropdown-item:focus,
           .header-area .top-header-area .top-header-content .top-header-meta .language-dropdown .dropdown-menu .dropdown-item:hover {
             color: #ffffff;

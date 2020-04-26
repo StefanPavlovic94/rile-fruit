@@ -451,7 +451,7 @@ img {
                         }
                         @media #{$breakpoint-xs} {
                             min-width: 100px;
-                            top: 70px !important;
+                            // top: 70px !important;
                         }
                         .dropdown-item:focus,
                         .dropdown-item:hover {
